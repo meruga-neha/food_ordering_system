@@ -1,0 +1,16 @@
+{
+    "1": {
+        "food_name": "burger",
+        "food_quantity": "2",
+        "food_stock": "4",
+        "food_price": 250.0,
+        "food_discount": 15.0
+    },
+    "2": {
+        "food_name": "pizza",
+        "food_quantity": "8",
+        "food_stock": "5",
+        "food_price": 300.0,
+        "food_discount": 15.0
+    }
+}
